@@ -1,5 +1,5 @@
 # Bikes-Ride-Analysis
-Analysing the differences in bikes usage between two customer segments of a Bike Share company
+Customer Segmentation Analysis of a Bike-Share company
 
 
 ## Introduction
