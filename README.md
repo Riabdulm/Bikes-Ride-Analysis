@@ -19,4 +19,4 @@ This will be done by analysing the historical data of the company to identify tr
 Understanding how these two different subscribers act will help the company's stakeholders have a clear idea of how they can convert the casual bikers to annual members. The key stakeholders include; the shareholders of the company looking to increase their company’s valuation, the management team, the company’s employee that will benefit from the company’s expansion and growth, and the customers of the company that will continue to get value by using the company's services.
 
 ## The analysis and the recommendations made can be found ---->
-https://github.com/Riabdulm/Bikes-Ride-Analysis/blob/22b9b468e9cf6e5e17c8015bee765abb58a074fe/bikesride_analysis.ipynb
+https://github.com/Riabdulm/Bikes-Ride-Analysis/blob/e7d6ae12778fbba72b594c165caf1d01ecfe8229/bikesride_analysis.ipynb
